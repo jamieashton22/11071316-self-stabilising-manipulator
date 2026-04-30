@@ -504,7 +504,6 @@ void RobotArm::handleSerial() {
     // enable/disable logging
     if (line == "L" || line == "l") {
         logging = !logging;
-        Serial.println(logging ? "Logging ON" : "Logging OFF");
         return;
     }
 
