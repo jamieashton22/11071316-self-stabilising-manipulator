@@ -49,3 +49,10 @@ NOTE: as the PlatformIO project is self-contained, these external libraries do n
 - Connect Arduino Mega 2560 via USB
 - Build and upload from the IDE.
 
+## Context
+
+Control loop: 
+[controldiagramfin.pdf](https://github.com/user-attachments/files/27321660/controldiagramfin.pdf)
+System architecture: [sysarchfin.pdf](https://github.com/user-attachments/files/27321662/sysarchfin.pdf)
+
+
