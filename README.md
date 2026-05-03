@@ -6,7 +6,7 @@ submitted 1st May 2026.
 The project consists of two main components:
 MATLAB simulation scripts used to model the manipulator, the IMU, compare sensor fusion algorithms, and validate the control strategy
 The embedded firmware written in C++ using PlatformIO to be used on an Arduino Mega 2560, integrating the control and sensor-fusion.
-All simulation and firmware code was developed as part of this project unless otherwise stated below.
+All simulation and firmware code was developed as part of this project unless otherwise stated below. Firmware code and README.md will be updated until the final demonstration as improvements are made to the system. 
 
 ## Repo Structure
 The repo consists of two main folders. 'simulation/' is used for the MATLAB modelling files. 'firmware/' is used for the firmware written in C++ using PlatformIO.
